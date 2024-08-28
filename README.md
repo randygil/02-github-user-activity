@@ -18,7 +18,7 @@ The application should run from the command line, accept the GitHub username as 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/github-user-activity.git
+   git clone https://github.com/randygil/02-github-user-activity
    cd github-user-activity
    ```
 
