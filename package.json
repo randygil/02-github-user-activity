@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "tsx": "^4.19.0"
+  },
+  "scripts": {
+    "github-activity": "tsx ./github-activity.ts"
+  }
+}
