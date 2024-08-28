@@ -1,9 +1,20 @@
 {
+  "name": "github-activity",
+  "version": "1.0.0",
+  "description": "A CLI tool to track your GitHub activity",
+  "main": "index.js",
+  "scripts": {
+    "github-activity": "tsx ./github-activity.ts"
+  },
+  "keywords": [
+    "github",
+    "activity",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "@types/node": "^22.5.1",
     "tsx": "^4.19.0"
-  },
-  "scripts": {
-    "github-activity": "tsx ./github-activity.ts"
   }
 }
